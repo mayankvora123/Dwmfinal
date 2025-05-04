@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Outlook,Temperature,Humidity,Windy,Class
 Sunny,Hot,High,Weak,No
 Sunny,Hot,High,Strong,No
@@ -12,4 +13,20 @@ Rain,Mild,Normal,Weak,Yes
 Sunny,Mild,Normal,Strong,Yes
 Overcast,Mild,High,Strong,Yes
 Overcast,Hot,Normal,Weak,Yes
+=======
+Outlook,Temperature,Humidity,Windy,Class
+Sunny,Hot,High,Weak,No
+Sunny,Hot,High,Strong,No
+Overcast,Hot,High,Weak,Yes
+Rain,Mild,High,Weak,Yes
+Rain,Cool,Normal,Weak,Yes
+Rain,Cool,Normal,Strong,No
+Overcast,Cool,Normal,Strong,Yes
+Sunny,Mild,High,Weak,No
+Sunny,Cool,Normal,Strong,Yes
+Rain,Mild,Normal,Weak,Yes
+Sunny,Mild,Normal,Strong,Yes
+Overcast,Mild,High,Strong,Yes
+Overcast,Hot,Normal,Weak,Yes
+>>>>>>> 306f3d9098a105588268d2032664f926715ed9df
 Rain,Mild,High,Strong,No
