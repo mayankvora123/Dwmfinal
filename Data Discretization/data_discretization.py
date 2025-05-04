@@ -113,7 +113,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load data from CSV
-file_path = '/content/Data Descritization.csv'  # Change path as needed
+file_path = '/content/Data Discretization.csv'  # Change path as needed
 df = pd.read_csv(file_path)
 
 # Access the first column (you can change to column name if known)
